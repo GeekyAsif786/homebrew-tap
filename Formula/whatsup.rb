@@ -1,7 +1,6 @@
 class Whatsup < Formula
   desc "See what's listening on your dev machine: ports, servers, databases, containers"
   homepage "https://github.com/GeekyAsif786/whatsup"
-  version "0.1.0"
   license "MIT"
 
   on_macos do
